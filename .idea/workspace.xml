@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1080ffe-404d-4c53-b414-19afb52b0fe5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AlexandraBotez.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AntonioRadic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ChessNetwork.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ChristofSielecki.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/EricRosen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GameStreams.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/JohnBartholomew.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Streams.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/fetchData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/Agadmator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/Alexandra-Botez.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/ChessNetwork.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/Christof-Sielecki.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/Eric-Rosen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/John-Bartholomew.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-    </list>
+    <list default="true" id="d1080ffe-404d-4c53-b414-19afb52b0fe5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602718846671</updated>
       <workItem from="1602718848194" duration="14716000" />
-      <workItem from="1602803279152" duration="25687000" />
+      <workItem from="1602803279152" duration="25925000" />
     </task>
     <servers />
   </component>
