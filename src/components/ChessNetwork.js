@@ -2,6 +2,7 @@ import React, {
     useEffect, useState
 } from 'react';
 import api from '../api';
+import StreamerList from "./StreamerList";
 
 function ChessNetwork () {
     const [profileImage, setProfileImage] = useState('unknown');
@@ -38,7 +39,7 @@ function ChessNetwork () {
             <div className="container">
                 <div className="row">
                     <div className="col">
-
+                        <StreamerList/>
                     </div>
                     <div className="col">
                         <img src={profileImage} alt="" className="img-fluid"/><br/>

@@ -49,7 +49,7 @@ class Navigation extends React.Component {
     render() {
         return (
             <div className="container">
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <nav className="navbar navbar-expand-lg navbar-light cheeriness">
                 <a className="navbar-brand" href="/">ChessEnvoy</a>
 
                     <ul className="navbar-nav mr-auto">

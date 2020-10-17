@@ -19,3 +19,20 @@ img {
 .lifetimeTitle {
     margin-top: 20px;
 }
+.streamerDir {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.cheeriness {
+    background-color: lightblue !important;
+}
+.aboutTheProject {
+    margin: 100px;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+}
+.greetings {
+    margin: 50px 0;
+}

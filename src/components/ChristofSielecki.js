@@ -3,6 +3,7 @@ import React, {
 } from 'react';
 import api from '../api';
 import '../App.css';
+import StreamerList from "./StreamerList";
 
 
 function ChristofSielecki() {
@@ -44,7 +45,7 @@ function ChristofSielecki() {
             <div className="container">
                 <div className="row">
                     <div className="col">
-
+                        <StreamerList/>
                     </div>
                     <div className="col">
                         <img src={profileImage} alt="" className="img-fluid"/><br/>

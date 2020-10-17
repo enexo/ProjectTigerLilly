@@ -15,7 +15,7 @@ function Home() {
     return (
         <div>
             <div className="container">
-                <h1>ChessEnvoy</h1>
+                <h1 className="greetings">Meet the Best Live Chess Streamers</h1>
                 <div className="row">
                     <div className="col">
                         <a href="/agadmator">
