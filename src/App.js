@@ -18,7 +18,6 @@ import "shards-ui/dist/css/shards.min.css";
 import './App.css';
 require('dotenv').config();
 
-
 function App() {
   return (
       <Router>
